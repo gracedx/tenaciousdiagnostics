@@ -45,7 +45,7 @@ export default function Hero() {
                 <p className="text-xs text-slate-500">Pivotal Trial Active</p>
               </div>
               <div className="absolute bottom-4 left-4 bg-white/80 backdrop-blur-sm rounded-lg px-3 py-2 shadow-sm">
-                <p className="text-xs font-semibold text-brand-text">87% improvement</p>
+                <p className="text-xs font-semibold text-brand-text">TBU% improvement</p>
                 <p className="text-xs text-slate-500">Phase II results</p>
               </div>
             </div>
