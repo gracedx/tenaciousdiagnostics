@@ -133,7 +133,7 @@ export const CLINICAL_EVIDENCE: { stats: ClinicalStat[]; methodologyNote: string
 export const FOOTER = {
   disclaimer:
     "For investigational use only. Not approved by the FDA. This device is currently under clinical investigation.",
-  contactEmail: "info@tenaciousdiagnostics.com",
+  contactEmail: "tenaciousdiagnostics@gmail.com",
   links: [
     { section: "Company", items: [{ label: "About", href: "#" }, { label: "Investors", href: "/investors" }, { label: "Careers", href: "#" }] },
     { section: "Audiences", items: [{ label: "Patients", href: "#audiences" }, { label: "Providers", href: "#audiences" }, { label: "Payers", href: "#audiences" }] },
