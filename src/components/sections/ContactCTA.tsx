@@ -23,7 +23,7 @@ export default function ContactCTA() {
           </Button>
         </div>
         <p className="mt-8 text-teal-200 text-sm">
-          info@tenaciousdiagnostics.com
+          tenaciousdiagnostics@gmail.com
         </p>
       </div>
     </section>
