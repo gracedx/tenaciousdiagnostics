@@ -49,24 +49,19 @@ export const FINANCIALS = {
 
 export const TEAM: TeamMember[] = [
   {
-    name: "Dr. Sarah Chen, MD PhD",
+    name: "Priya Sivaraja, MD, MPH, FRCSC",
     title: "Co-Founder & CEO",
-    bio: "Neurosurgeon and biomedical engineer with 15+ years in neuromodulation. Former faculty at UCSF.",
+    bio: "ENT Surgeon (EDIT FURTHER)",
   },
   {
-    name: "Dr. Marcus Webb, PhD",
-    title: "Co-Founder & CTO",
-    bio: "Bioelectronics expert, led implant development at Medtronic for TBU years. TBU+ patents.",
+    name: "Nick Pan, PhD, MBA, MPH",
+    title: "Co-Founder & COO",
+    bio: "AI Product (EDIT FURTHER)",
   },
   {
-    name: "Lisa Park, MBA",
-    title: "Chief Commercial Officer",
-    bio: "Commercialized two medical devices from pre-revenue through $200M in annual sales.",
-  },
-  {
-    name: "Dr. James Okafor, MD",
-    title: "Chief Medical Officer",
-    bio: "Gastroenterologist and dysphagia specialist, principal investigator on Phase II and III trials.",
+    name: "Grace Xu",
+    title: "Chief of Staff",
+    bio: "Life Sciences & Healthcare consultant",
   },
 ];
 
